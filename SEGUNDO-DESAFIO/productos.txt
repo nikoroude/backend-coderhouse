@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Impresora Hp Ink Tank 315",
+        "price": 39879,
+        "thumbnail": "https://images.fravega.com/f300/8e892cd574e6b89f6e933383e7fa1c74.jpg"
+    },
+    {
+        "id": 2,
+        "title": "PC CPU EXO UNITED GAMERS K5Ve",
+        "price": 199999,
+        "thumbnail": "https://images.fravega.com/f300/1279309294f4b48088fc93996ddd15e8.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Auriculares PS5",
+        "price": 42000,
+        "thumbnail": "https://arsonyb2c.vtexassets.com/arquivos/ids/348062/PS5_WHS_Pshot_A.jpg?v=637363806123470000"
+    }
+]
