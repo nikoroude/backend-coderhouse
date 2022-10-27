@@ -1,5 +1,3 @@
-# Entrega 3 Lautaro Demonte
-
 ## Configuracion
 
 Hacer npm install para instalar las dependencias
