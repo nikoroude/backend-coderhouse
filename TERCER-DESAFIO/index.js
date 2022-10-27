@@ -14,7 +14,7 @@ server.on("error", error => console.log(`Error en servidor: ${error.message}`));
 app.get("/", (req, res) => {
     try {
         res.send(
-            `<h1 style="text-align: center">Bienvenido a mi nueva entrega! 😎</h1>`
+            `<h1 style="text-align: center">Bienvenido!</h1>`
         );
     } catch (error) {
         console.log(`Error cargando el proyecto: ${error}`);
